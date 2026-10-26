@@ -1,0 +1,14 @@
+{
+  "project": "zu-chongzhi-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "A1o72PyjkhWhbdvykXtJ68Lg7mYqKwjZi7wJ7QRvsSsC",
+  "vault_account": "AHPgqzwCSNCcc4sqopvRA8rJYQk3g55947QAP8PMADKp",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2MzcFemGBzZSAd6MKrDEWzkCo6xqhghfVuP9thoquFdUva1GTt4HtBKtNLdFfwxrUFm38u67Uhy13nwpmqvXW92X",
+  "account_tx": "3Rb2LEprUy7KPxBqjXQVpS1VpuF4xBJeGKB2Xam298ft9MFCFwzoVwpjKBuHzWtVHtqSkVsmozTLDcWrTa3zZkgP",
+  "mint_tx": "5c5GuCJNhXYatdmpp838eegGkiKnnu8Z3t9jGjTTwLmGoNtTnyys5t2xC2rU7eQMAqfjckC2HCKqGwomH6xN7Qc4",
+  "solana_explorer_mint": "https://explorer.solana.com/address/A1o72PyjkhWhbdvykXtJ68Lg7mYqKwjZi7wJ7QRvsSsC?cluster=devnet",
+  "timestamp": "2026-10-26 17:05:03 UTC"
+}
